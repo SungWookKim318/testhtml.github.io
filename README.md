@@ -4,6 +4,6 @@
 
 ## [Android Develope Deeplink Debug]("https://fitnesscandy.page.link/articleinstallpretestaos?d=1")
 
-## [Apple iOS Develope Deeplink]"https://fitnesscandy.page.link/articleinstallpretest")
+## [Apple iOS Develope Deeplink]("https://fitnesscandy.page.link/articleinstallpretest")
 
 ## [Apple iOS Develope Deeplink Debug]("https://fitnesscandy.page.link/articleinstallpretest?d=1")
