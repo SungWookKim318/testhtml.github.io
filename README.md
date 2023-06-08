@@ -7,3 +7,5 @@
 ## [Apple iOS Develope Deeplink](https://fitnesscandy.page.link/articleinstallpretest)
 
 ## [Apple iOS Develope Deeplink Debug](https://fitnesscandy.page.link/articleinstallpretest?d=1)
+
+## [ADjust custom Link](https://app.adjust.com/11jyi83o)
