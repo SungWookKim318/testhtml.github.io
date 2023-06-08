@@ -11,3 +11,5 @@
 ## [ADjust custom Link](https://app.adjust.com/11jyi83o)
 
 ## [ADJust Universial link](https://nsw2.adj.st)
+
+## [Adjust Test Link](https://app.adjust.com/11j924ga)
