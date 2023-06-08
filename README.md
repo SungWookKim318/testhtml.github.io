@@ -10,4 +10,4 @@
 
 ## [ADjust custom Link](https://app.adjust.com/11jyi83o)
 
-## [ADJust Universial link](nsw2.adj.st)
+## [ADJust Universial link](https://nsw2.adj.st)
